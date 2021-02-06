@@ -21,7 +21,7 @@
             <Label Text="Blue" FontSize="30" TextColor="Black" VerticalOptions="Center" />
          </StackLayout>
       </Frame>
-      <Label Text="Secondary colors" FontSize="40" FontAttributes="Bold" TextColor="Black" />
+      <Label Text="by Petrik" FontSize="40" FontAttributes="Bold" TextColor="Black" />
       <Frame BorderColor="Black" Padding="5">
          <StackLayout Orientation="Horizontal" Spacing="15">
             <BoxView Color="Green" />
